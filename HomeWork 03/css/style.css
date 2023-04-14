@@ -1,0 +1,32 @@
+html {
+    background-color: rgb(249, 250, 241);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+::placeholder {
+    color: gray;
+}
+
+button {
+    color: sienna;
+}
+
+body {
+    width: fit-content;
+    margin: 0 auto;
+    padding: 10%;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    color: chocolate;
+}
+
+h3 {
+
+    color: rgb(94, 109, 7);
+}
